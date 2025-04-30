@@ -1,0 +1,17 @@
+{
+	"$schema": "https://docs.biomejs.dev/schemas/biomerc.schema.json",
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "space",
+		"indentSize": 2,
+		"lineWidth": 100,
+		"semicolons": "asNeeded",
+		"quoteStyle": "double"
+	},
+	"rules": {
+		"enabled": ["recommended"],
+		"recommended": {
+			"nursery": true
+		}
+	}
+}
