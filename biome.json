@@ -8,5 +8,8 @@
   },
   "linter": {
     "enabled": true
+  },
+  "files": {
+    "ignore": ["tsconfig*.json"]
   }
 }
